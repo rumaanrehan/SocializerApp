@@ -1,4 +1,7 @@
 # socializer - A React JS Chat Application
+A web chat application that allows users to communicate in real-time providing a full duplex channel hosted over a local 
+network.   
+Tech Stack: React, MongoDB, Express.js, Socket.IO, axios, bcrypt, React Styled Components CSS
 
 ## 📌 How to use this App?
 1. Clone this **repository** to your local computer.
